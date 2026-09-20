@@ -1,4 +1,4 @@
-# Data Analytics Healthcare/Pharmacy Internship 🏥💊
+# Data Analytics Healthcare/Pharmacy Internship 
 **Organization:** VirtualWorks Lab (by Noivrn)  
 **Intern:** Kanika Bhuker  
 **Institution:** Fateh Chand College for Women, Hisar (GJU-affiliated)  
@@ -6,12 +6,12 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This repository contains the end-to-end data analytics and business intelligence pipeline developed during my virtual internship at VirtualWorks Lab. Bridging the gap between life sciences (Biotechnology) and computer science, this project focuses on engineering clean medical data, extracting pharmacy operational insights, and constructing predictive models.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 * **Languages:** Python 3.14 (Pandas, NumPy)
 * **Data Tools:** VS Code, Jupyter Notebooks
 * **Business Intelligence:** Power BI (Upcoming Tasks)
@@ -19,9 +19,9 @@ This repository contains the end-to-end data analytics and business intelligence
 
 ---
 
-## 📈 Internship Task Progress
+## Internship Task Progress
 
-### 🧼 Task 1 — Healthcare Data Cleaning & Understanding (Completed)
+###  Task 1 — Healthcare Data Cleaning & Understanding (Completed)
 * **Objective:** Clean a clinical patient records dataset, manage structured data missingness, drop operational row duplicates, and isolate basic summary metrics.
 * **Implementation:** Built a self-contained automation script in Python using VS Code Jupyter extension.
 * **Key Achievements:**
@@ -31,7 +31,7 @@ This repository contains the end-to-end data analytics and business intelligence
 
 ---
 
-## 📂 Repository Structure
-* 📂 `Task1_Healthcare_Data_Cleaning.ipynb` — Full Python processing pipeline code.
-* 📂 `cleaned_patient_records.csv` — Fully cleaned dataset ready for visualization.
+## Repository Structure
+* `Task1_Healthcare_Data_Cleaning.ipynb` — Full Python processing pipeline code.
+* `cleaned_patient_records.csv` — Fully cleaned dataset ready for visualization.
 *# Virtualworks-Lab-Data-Analytics-Healthcare-Pharmacy-

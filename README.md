@@ -32,6 +32,6 @@ This repository contains the end-to-end data analytics and business intelligence
 ---
 
 ## Repository Structure
-* `Healthcare_Data_Cleaning.ipynb` — Full Python processing pipeline code.
+* `Healthcare_Data_cleaning.ipynb` — Full Python processing pipeline code.
 * `cleaned_patient_records.csv` — Fully cleaned dataset ready for visualization.
 *# Virtualworks-Lab-Data-Analytics-Healthcare-Pharmacy-

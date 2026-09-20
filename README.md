@@ -21,7 +21,7 @@ This repository contains the end-to-end data analytics and business intelligence
 
 ## Internship Task Progress
 
-###  Task 1 — Healthcare Data Cleaning & Understanding (Completed)
+### Healthcare Data Cleaning & Understanding (Completed)
 * **Objective:** Clean a clinical patient records dataset, manage structured data missingness, drop operational row duplicates, and isolate basic summary metrics.
 * **Implementation:** Built a self-contained automation script in Python using VS Code Jupyter extension.
 * **Key Achievements:**
@@ -32,6 +32,6 @@ This repository contains the end-to-end data analytics and business intelligence
 ---
 
 ## Repository Structure
-* `Task1_Healthcare_Data_Cleaning.ipynb` — Full Python processing pipeline code.
+* `Healthcare_Data_Cleaning.ipynb` — Full Python processing pipeline code.
 * `cleaned_patient_records.csv` — Fully cleaned dataset ready for visualization.
 *# Virtualworks-Lab-Data-Analytics-Healthcare-Pharmacy-
